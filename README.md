@@ -13,26 +13,27 @@ All design files and instructions to build your own Rana Digital ~~are~~ (will b
 
 ### Chassis
 
-#### Shell
+- #### Shell
 
-#### Backplate
+- #### Backplate
 
-#### Fasteners
+- #### Fasteners
 
 ### Electronics
 
-#### PCB
+- #### PCB
 
-##### Motherboard
+  - ##### Motherboard
 
-##### USB-C Board (RLUB)
+  - ##### USB-C Board (RLUB)
 
 https://github.com/rana-sylvatica/RLUB
 
-##### Switches
+ - #### Switches
 
 ### Keycaps
 
+https://github.com/rana-sylvatica/circle-keycaps
 
 ## Firmware
 
