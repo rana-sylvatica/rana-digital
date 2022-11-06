@@ -7,6 +7,8 @@ The Rana Digital is an open-source stickless controller primarily intended for S
 
 ![image](https://user-images.githubusercontent.com/95242582/200199077-9dda4490-ee79-46d5-b45f-55e830ee64f4.png)
 
+All design files and instructions to build your own Rana Digital ~~are~~ (will be - still under construction) included in this repository.
+
 ## Hardware
 
 ### Chassis
@@ -25,6 +27,8 @@ The Rana Digital is an open-source stickless controller primarily intended for S
 
 ##### USB-C Board (RLUB)
 
+https://github.com/rana-sylvatica/RLUB
+
 ##### Switches
 
 ### Keycaps
@@ -32,6 +36,7 @@ The Rana Digital is an open-source stickless controller primarily intended for S
 
 ## Firmware
 
-### (Coming Soon)
+https://github.com/rana-sylvatica/pico-rectangle-rana-digital
+
 
 
