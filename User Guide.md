@@ -37,7 +37,7 @@ This is not an exhaustive list of all the modes available in the pico-rectangle 
 
 To enter remapping mode, hold down the highlighted key shown below when plugging in the controller.  Release the key within 3 seconds of plugging in.
 
-![image](https://user-images.githubusercontent.com/95242582/200139452-89966a1b-7011-48a5-aa38-6df6dad52511.png)
+![image](https://user-images.githubusercontent.com/95242582/200223796-97b3e03c-dc03-40b4-b370-f4628a88e728.png)
 
 After 3 seconds have passed, press the keys in the following order, corresponding to your preferred layout:
 
