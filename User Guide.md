@@ -22,7 +22,10 @@ Plug the controller in using a GCC to USB-A cable.
 
 ### For Rivals of Aether:
 
-#### (Coming Soon)
+Plug the controller in to the PC using a USB-C to USB-A cable while holding the highlighted key.  This will cause the controller to be recognized as an XInput device with the same control scheme as in Melee modes.
+
+![image](https://user-images.githubusercontent.com/95242582/200223718-eafcbdc4-be48-4411-9f8e-fb916dd7b6cd.png)
+
 
 ### Modes
 
