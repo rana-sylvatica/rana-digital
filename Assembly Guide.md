@@ -92,6 +92,24 @@ Place a small drop of cyanoacrylate adhesive in each of the 14 hexagonal holes i
 
 ## Step 5: Assembly
 
+Break off a Port Insert from the 6x sprue and put it in the gap in the chassis as shown so the holes line up with the threaded inserts below.
+
+![IMG_20230107_200512509](https://user-images.githubusercontent.com/95242582/212544352-b2358ecb-1f5f-48c5-bf0b-304bda9b8686.jpg)
+![IMG_20230107_200743212](https://user-images.githubusercontent.com/95242582/212544370-3060b53a-558e-4806-a653-8f9269bb870c.jpg)
+
+Put the mainboard and USB C board in the chassis as shown.  The male pin header on the USB C board should be inserted into the female pin header on the mainboard and the USB C port should be inserted through the hole in the Port Insert component.  Use 6x of the 4mm M3 screws to attach the two boards to the chassis.  It is recommended but not required to use a small amount of low-strengh (purple) loctite threadlocker on these screws.
+
+![IMG_20230107_201125959](https://user-images.githubusercontent.com/95242582/212544398-6f140bf5-e7e8-4a8a-a3a2-1310ceb35c3a.jpg)
+
+Turn the controller over and insert the switches while supporting the PCB from the other side.  Make sure the pins on the switchs are not bent when inserting. The switch should clip into the square hole on the chassis and feel secure.
+
+![IMG_20230107_201331715](https://user-images.githubusercontent.com/95242582/212544681-5cbca39e-0cac-444c-9679-ee9f312e9ec8.jpg)
+
+When all the switches are properly inserted it should look like this:
+
+![IMG_20230107_204143402](https://user-images.githubusercontent.com/95242582/212544685-19187bb1-c96b-44d8-88c1-d1badd678ae5.jpg)
+
+At this point it is recommended to test the controller to make sure everything is working properly. If using the default Rana Digital firmware, hold Start (middle button) when plugging in to a PC to put it into keyboard mode. Open notepad or a similar program and press the buttons on the controller.  If it is working, each button should type a letter when pressed.  If a button does not, use a switch puller tool to pull the switch out of the board and check if one of the pins was bent during assembly.  If this did not seem to be the issue then look at the solder joints for that switch 
 **finishing up the rest of this in a bit**
 
 
