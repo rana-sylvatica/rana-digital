@@ -109,7 +109,79 @@ When all the switches are properly inserted it should look like this:
 
 ![IMG_20230107_204143402](https://user-images.githubusercontent.com/95242582/212544685-19187bb1-c96b-44d8-88c1-d1badd678ae5.jpg)
 
-At this point it is recommended to test the controller to make sure everything is working properly. If using the default Rana Digital firmware, hold Start (middle button) when plugging in to a PC to put it into keyboard mode. Open notepad or a similar program and press the buttons on the controller.  If it is working, each button should type a letter when pressed.  If a button does not, use a switch puller tool to pull the switch out of the board and check if one of the pins was bent during assembly.  If this did not seem to be the issue then look at the solder joints for that switch 
-**finishing up the rest of this in a bit**
+At this point it is recommended to test the controller to make sure everything is working properly. If using the default Rana Digital firmware, hold Start (middle button) when plugging in to a PC to put it into keyboard mode. Open notepad or a similar program and press the buttons on the controller.  If it is working, each button should type a letter when pressed.  If a button does not, use a switch puller tool to pull the switch out of the board and check if one of the pins was bent during assembly.  If this did not seem to be the issue then look at the solder joints for that switch and reflow/add solder as needed.  At this stage it is also good t check GCC functionality.  Using the USB-GCC cable, plug the controller in to either a Wii/GameCube or a GameCube controller adapter and make sure the buttons function.
 
+Once you have verified that the controller is fully functional, put on the backplate and the foam pad.  Simply screw in the 8 remaining 4mm M3 screws.  Again, it is recommended to use threadlocker to prevent the screws from working loose.  For the foam pad, just peel off the paper backing and stick onto the backplate.
+
+![IMG_20230107_205454881](https://user-images.githubusercontent.com/95242582/212545131-14ae064c-d7e8-4b09-8261-8ef2d9473c46.jpg)
+
+Finally, install the keycaps.  Break them off from the sprue and press on to each switch, making sure to match the orientation of the stem.  They can be somewhat tight so you will need to press firmly.
+
+Once the keycaps are installed the controller is complete.  Enjoy!
+
+![image](https://user-images.githubusercontent.com/95242582/212545908-9791519c-d152-4f1a-98bb-77aeb9e6b382.png)
+![image](https://user-images.githubusercontent.com/95242582/212545916-333549ee-e8ed-427b-9d3b-0e1b23ca870b.png)
+
+
+# Alternate Instructions for FDM Chassis:
+
+If you are 3D printing the chassis using the split design intended for FDM printers, follow these instructions (from @davyiskewl#5038 on Discord who designed these modifications to the chassis).  Soldering and installing the PCBs, switches, backplate, and keycaps will all be the same as described above.
+
+## Parts:
+
+Instead of the male-to-female hex standoffs from the parts list at the top of this page you will need 18x M3 heat-set threaded inserts such as:
+
+https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m3-standard-100-stk-pcs
+
+or
+
+https://www.amazon.com/AIEX-Printing-Embedment-Automotive-4-6x5-7mm/dp/B09TNK8GD6/
+
+You will also need 18x of the 4mm M3 screws from the parts list at the top of the page.
+
+## Print Files:
+
+Use the files from the folder labeled FDM.  You will need to print a left half, a right half, and a port insert.
+
+## Print Settings:
+
+Printing the Rana Digital is fairly straightforward. See below for example settings (other settings may work as well, depending on your printer.  Settings also may vary based on your slicer software). Make sure to apply supports over the intersection of the start button as pictured. Nowhere else on the enclosure do you need supports.
+
+![image](https://user-images.githubusercontent.com/95242582/212546527-50a6ac40-bbcf-45d9-bfcb-b68c6766424c.png)
+
+I found that printing with a top layer produced weird artifacts as pictured. Printing without the top layer decreases print times and results in a cleaner print for me.
+
+![image](https://user-images.githubusercontent.com/95242582/212546556-66ee4f3d-cf9b-4df0-a444-0de83ff283e3.png)
+![image](https://user-images.githubusercontent.com/95242582/212546569-661182c6-de40-4f62-bf72-fe23cb67745b.png)
+
+The resulting slice should look something like the following:
+
+![image](https://user-images.githubusercontent.com/95242582/212546601-3c52c0ef-fbde-4f27-83bd-b1411a199d19.png)
+
+Use the same setting for the other side.
+
+Normal settings should suffice for printing the usbc port insert. No need for supports.
+![image](https://user-images.githubusercontent.com/95242582/212546618-a9a4dcee-cd6b-41a3-8f34-9f88f182678a.png)
+
+## Assembly
+
+To assemble the case you will need a soldering iron (or some other way to press in the heated inserts), heat-set inserts, and M3 screws.
+
+First start by placing heated inserts into their holes. The Right side has 7 + 4 (for the connection) and the Left side has 7.
+
+![image](https://user-images.githubusercontent.com/95242582/212546721-b48e19ae-0112-431c-87be-7d0b637441ef.png)
+
+Use your soldering iron to push the inserts into place. A little below flush is ok.
+
+![image](https://user-images.githubusercontent.com/95242582/212546736-0dd944a7-293b-4771-9bac-d18548712b76.png)
+
+Assemble the 2 halves of the case together as shown, by screwing in the 4 connecting screws.
+
+![image](https://user-images.githubusercontent.com/95242582/212546813-097ecbe3-7be0-4835-8ede-9fd64a7c7b4a.png)
+
+Finish pushing in the rest of the heated inserts in if you haven’t already. That’s it! You’re done! You now have a completed 3d printed Rana Digital enclosure. Return to the rest of the instructions for finishing the controller.
+
+![image](https://user-images.githubusercontent.com/95242582/212546866-631fd023-beaf-4729-88aa-16b0d058aa3c.png)
+
+![image](https://user-images.githubusercontent.com/95242582/212546875-5ce15f99-6807-4605-a244-952e055eae72.png)
 
