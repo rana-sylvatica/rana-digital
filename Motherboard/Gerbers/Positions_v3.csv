@@ -1,4 +1,4 @@
-Ref,Val,Package,MidX,MidY,Rot,Side
+Ref,Val,Package,MidX,MidY,Rotation,Layer
 "A1","KEYSW","Kailh_socket_MX_optional",254.490000,-195.540000,-90.000000,top
 "B1","KEYSW","Kailh_socket_MX_optional",254.490000,-137.140000,-90.000000,top
 "C1","10u","C_0805_2012Metric",172.570000,-167.286766,90.000000,top
