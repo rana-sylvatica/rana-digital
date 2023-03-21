@@ -80,6 +80,8 @@ Next, solder the matching female pin header to the mainboard: Cut an 8-pin secti
 
 At this point the soldering is complete.  It is recommended to clean the solder joints using isopropyl alchohol and either paper towel or an old toothbrush to remove flux residue.
 
+**IMPORTANT NOTE: The image below shows the correct orientation of the RLUB.  The SMD components should be on the same side of the board as the SMD components on the mainboard.  If the RLUB is upside down it will not work and will cause a short circuit that can damage the electronics.** 
+
 (OPTIONAL) - to improve the sound profile of the controller a little bit you can use keyboard switch foam pads as shown. These are 0.5mm thick and just add a tiny bit of padding between the switch and the PCB.
 
 ![IMG_20230107_192443190](https://user-images.githubusercontent.com/95242582/212521913-b91d95c2-9f53-4144-92ab-f64c4063cd26.jpg)
