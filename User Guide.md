@@ -18,7 +18,10 @@ Plug the controller in using a USB-C to GCC cable.
 
 ### For Ultimate:
 
-Either plug in through a GCC adapter using the USB-C to GCC cable or plug directly into the Switch with USB-C to USB-A
+Either plug in through a GCC adapter using the USB-C to GCC cable or plug directly into the Switch with USB-C to USB-A, while holding down MX
+
+![image](https://github.com/rana-sylvatica/rana-digital/assets/95242582/54ecf4a9-eab8-438f-9905-affb36b3f553)
+
 
 ### For Rivals of Aether:
 
