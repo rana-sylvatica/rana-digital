@@ -20,7 +20,9 @@ Plug the controller in using a USB-C to GCC cable.
 
 Either plug in through a GCC adapter using the USB-C to GCC cable or plug directly into the Switch with USB-C to USB-A, while holding down MX
 
-![image](https://github.com/rana-sylvatica/rana-digital/assets/95242582/54ecf4a9-eab8-438f-9905-affb36b3f553)
+![image](https://github.com/rana-sylvatica/rana-digital/assets/95242582/ad19f604-cd48-4781-b0d6-d9c19b1d9b23)
+
+
 
 
 ### For Rivals of Aether:
