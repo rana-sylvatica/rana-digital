@@ -11,7 +11,7 @@ All design files and instructions to build your own Rana Digital ~~are~~ (will b
 
 ## Ordering guide
 
-A guide to ordering can be found [here](Ordering guide/Ordering Guide.md).
+A guide to ordering can be found [here](./Ordering guide/README.md).
 
 ## Hardware
 
