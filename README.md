@@ -9,6 +9,10 @@ The Rana Digital is an open-source stickless controller primarily intended for S
 
 All design files and instructions to build your own Rana Digital ~~are~~ (will be - still under construction) included in this repository.
 
+## Ordering guide
+
+A guide to ordering can be found [here](./Ordering%20guide/README.md).
+
 ## Hardware
 
 ### Chassis
